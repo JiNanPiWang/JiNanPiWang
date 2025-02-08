@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 <!--
 **JiNanPiWang/jinanpiwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 当前时间:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://profile-counter.glitch.me/jinanpiwang/count.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://profile-counter.glitch.me/jinanpiwang/count.svg">
+  <img alt="Visitor Count" src="https://profile-counter.glitch.me/jinanpiwang/count.svg">
+</picture>
